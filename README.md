@@ -16,10 +16,10 @@ GitHub|จัดเรียงให้สวยงาม| 5% |
 
 ### **Final Score = Score * %attendance** :+1: 👩🏼‍🔧
 # :round_pushpin: CODE :computer:
--  Understanding_Data : [Click to go to colab](https://colab.research.google.com/github/Sirapatlnwza/BSC_DPDM23/blob/main/Understanding_Data.ipynb)
--  Data Preprocessing : [Click to go to colab](https://colab.research.google.com/github/Sirapatlnwza/BSC_DPDM23/blob/main/Data_Preprocessing.ipynb)
+-  Understanding_Data : [Click to go to colab](https://github.com/Hathaichanoklnwza/BSC_DPDM23/blob/main/Understanding_Data.ipynb)
+-  Data Preprocessing : [Click to go to colab](https://github.com/Hathaichanoklnwza/BSC_DPDM23/blob/main/Data_Preprocessin)
 -  Classification : [Click to go to colab]
-  (https://colab.research.google.com/github/Sirapatlnwza/BSC_DPDM23/blob/main/Classification.ipynb)
+(https://github.com/Hathaichanoklnwza/BSC_DPDM23/blob/main/Classification.ipynb)
   
 # :fist_right: Homework :fist_left:🗒
 - [x]   [Click to go to HW1](https://github.com/Hathaichanoklnwza/BSC_DPDM23/blob/main/สำเนาของ_Frequent_Patterns_(Association_Rules).ipynb)
